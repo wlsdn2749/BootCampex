@@ -9,7 +9,6 @@ lat = 35.8105056935149   # 위도
 lng = 127.102527553171   # 경도
 page_id = 31081  # 가게 고유명사
 
-save = 5
 class Crawling:
 
     def __init__(self) -> None:
